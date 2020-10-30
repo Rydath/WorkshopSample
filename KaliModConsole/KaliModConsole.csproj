@@ -5,8 +5,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{79F7ED14-FC8A-4625-A297-2CC51C5D803D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MyModConsole</RootNamespace>
-    <AssemblyName>MyModConsole</AssemblyName>
+    <RootNamespace>KaliModConsole</RootNamespace>
+    <AssemblyName>KaliModConsole</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

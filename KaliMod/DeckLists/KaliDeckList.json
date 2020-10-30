@@ -1,52 +1,52 @@
 ﻿{
-  "name": "Migrant Coder",
+  "name": "Kali",
   "kind": "Hero",
   "initialCardIdentifiers": [
-    "MigrantCoderCharacter"
+    "KaliCharacter"
   ],
   "cards": [
     {
-      "identifier": "MigrantCoderCharacter",
+      "identifier": "KaliCharacter",
       "count": 1,
-      "title": "Migrant Coder",
-      "body": "Hack the Gibson",
+      "title": "Kali",
+      "body": "Uncontrolled Mutation",
       "backgroundColor": "fbf8f9",
       "foilBackgroundColor": "FEFEFE",
       "hitpointsColor": "C94742",
       "character": true,
       "powers": [
-        "Draw 3 cards. {MigrantCoder} deals 1 target 2 Psychic damage."
+        "{Kali} reveals cards from the top of her deck until a Mutation is revealed. Put that card into play. Shuffle the rest back into the deck."
       ],
       "icons": [
         "HasPower"
       ],
-      "hitpoints": 39,
+      "hitpoints": 32,
       "nemesisIdentifiers": [
-        "Legacy"
+        "Kali"
       ],
       "incapacitatedAbilities": [
-        "One hero may do something.",
-        "One player may actually do something.",
-        "The villain really super will do something."
+        "Destroy an Environment card.",
+        "Destroy an Ongoing card.",
+        "Destroy a non-Hero Target with 2 or fewer hp."
       ],
       "flippedIcons": [
       ],
       "openingLines": {
-        "default": "I'm a mod! Whatcha gonna do?"
+        "default": "What are you staring at!? It's a skin condition!"
       },
       "complexity": 1
     },
     {
-      "identifier": "WorstCardEver",
-      "count": 39,
-      "title": "Worst... Card... Ever.",
+      "identifier": "TearOpen",
+      "count": 4,
+      "title": "Tear Open",
       "keywords": [
         "one-shot"
       ],
-      "body": "Nothing happens.",
+      "body": "{Kali} deals 1 target 2 irreducible melee damage.",
       "icons": [
       ],
-      "flavorText": "Ugh."
+      "flavorText": "Pull over!"
     },
     {
       "identifier": "PunchingBag",
@@ -55,7 +55,7 @@
       "keywords": [
         "one-shot"
       ],
-      "body": "{MigrantCoder} deals himself 1 melee damage.",
+      "body": "{Kali} deals herself 1 melee damage.",
       "icons": [
       ],
       "flavorText": "Ouch!"
